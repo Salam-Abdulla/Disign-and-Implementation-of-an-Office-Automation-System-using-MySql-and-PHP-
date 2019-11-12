@@ -1,0 +1,2 @@
+# Disign-and-Implementation-of-an-Office-Automation-System-using-MySql-and-PHP-
+Office automation refers to the varied computer machinery and software used to digitally create, collect, store, manipulate, and relay office information needed for accomplishing basic tasks. Raw data storage, electronic transfer, and the management of electronic business information comprise the basic activities of an office automation system.Office automation helps in optimizing or automating existing office procedures.
